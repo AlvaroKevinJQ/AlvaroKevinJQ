@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @AlvaroKevinJQ
-- 👀 I’m interested in learning and working web programing
-- 💞️ I’m looking to collaborate on all kind of web programing projects
+- 👀 I am a SAP ABAP Consultant at Bosch, but I have passion and experience for Backend Development and specially at Node.js Projects as well.
 - 📫 How to reach me: you can send an e-mail to alvarokevinjimenezq@gmail.com
